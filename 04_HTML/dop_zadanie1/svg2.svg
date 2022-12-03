@@ -1,0 +1,32 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_35"/>
+  <g id="svg_36">
+   <g id="svg_10" stroke="null" transform="rotate(89.9773 404.971 232.971)">
+    <line fill="none" x1="374.27987" y1="42.77212" x2="287.45947" y2="234.23883" id="svg_3" stroke-linejoin="undefined" stroke-linecap="undefined" stroke="#000"/>
+    <line fill="none" y1="234.23882" x2="374.27987" y2="423.16955" id="svg_4" stroke-linejoin="undefined" stroke-linecap="undefined" x1="287.45947" stroke="#000"/>
+    <line fill="none" x1="374.27987" y1="421.90156" x2="374.83287" y2="44.04011" id="svg_5" stroke-linejoin="undefined" stroke-linecap="undefined" stroke="#000"/>
+    <rect fill="none" x="374.83287" y="168.30327" width="147.64997" height="124.26316" id="svg_8" stroke="#000"/>
+   </g>
+   <rect fill="none" stroke="#000" x="214" y="202" width="380" height="149" id="svg_11"/>
+   <ellipse fill="none" stroke="#000" cx="447.5" cy="287.5" id="svg_12" rx="10.5" ry="10.5"/>
+   <ellipse fill="none" stroke="#000" cx="409" cy="246.5" id="svg_13" rx="33" ry="21.5"/>
+   <ellipse fill="none" cx="409.5" cy="246" id="svg_15" rx="26.5" ry="18" stroke="#000"/>
+   <line fill="none" x1="410" y1="230" x2="410" y2="261" id="svg_16" stroke="#000"/>
+   <line fill="none" x1="409.9986" y1="226.93554" x2="409.9986" y2="263.93412" id="svg_19" stroke="#000" transform="rotate(88.7546 409.999 245.435)"/>
+   <ellipse fill="none" cx="448" cy="307.61538" id="svg_20" rx="5" ry="5.38462" stroke="#000"/>
+   <ellipse fill="none" cx="448.33333" cy="307.61539" id="svg_21" rx="3.33333" ry="3.38461" stroke="#000"/>
+   <line fill="none" x1="246.66667" y1="202.66667" x2="402.66667" y2="116.66667" id="svg_22" stroke="#000"/>
+   <line fill="none" stroke="#000" x1="404" y1="116" x2="292.66667" y2="201.33333" id="svg_23"/>
+   <line fill="none" stroke="#000" x1="404" y1="116" x2="343.33333" y2="202.66667" id="svg_25"/>
+   <path fill="none" stroke="#000" opacity="undefined" d="m495.33333,115.33333" id="svg_26"/>
+   <line fill="none" stroke="#000" x1="404" y1="116" x2="404.66667" y2="204.66667" id="svg_27"/>
+   <line fill="none" stroke="#000" x1="403.33333" y1="115.33333" x2="469.33333" y2="201.33333" id="svg_29"/>
+   <line fill="none" stroke="#000" x1="404" y1="116" x2="512" y2="202.66667" id="svg_31"/>
+   <path fill="none" stroke="#000" opacity="undefined" d="m558,136.66667" id="svg_32"/>
+   <line fill="none" stroke="#000" x1="404.66667" y1="116" x2="550" y2="202" id="svg_33"/>
+  </g>
+ </g>
+
+</svg>
